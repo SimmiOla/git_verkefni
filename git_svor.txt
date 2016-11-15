@@ -24,3 +24,5 @@ Git spurningar og svör
 5.	Hverjir eru helstu kostir við að nota GIT?
 		auðveldar tveim+ einstaklingum að vinna í sama verkefni þó þeir séu kanski hinumeigin á hnettinum
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		reyna að gera það eftir hverja færslu, því ef eitthvað skildi fara úrskeiðis er hægt að fara tilbaka
