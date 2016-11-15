@@ -17,3 +17,6 @@ Git spurningar og svör
 	a) git diff Shows file differences not yet staged
 	b) git diff --staged Shows file differences between staging and the last file version
 	c) git diff commit1 commit2 Shows file differences not yet staged only from specified commits
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		kerfi sem loggar breytingar á skrám svo hægt er að kalla þær upp aftur
