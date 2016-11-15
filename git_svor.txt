@@ -12,3 +12,8 @@ Git spurningar og svör
 	git status byrtir allar nýjar skrár eða þær sem hafa verið breytt sem eiga eftir að vera "commit-ed"
 	git diff sýnir mismun skráar sem hafa ekki en verið sviðsettar
 	git checkout Fer í branch og uppfærir vinnandi directory
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff Shows file differences not yet staged
+	b) git diff --staged Shows file differences between staging and the last file version
+	c) git diff commit1 commit2 Shows file differences not yet staged only from specified commits
