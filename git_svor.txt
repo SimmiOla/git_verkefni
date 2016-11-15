@@ -32,3 +32,5 @@ Git spurningar og svör
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 		þegar það er t.d. verið að vinna í verkefni en notandi vill ekki over-write-a aðal verkefnið.
+
+SimmiOla
