@@ -28,4 +28,7 @@ Git spurningar og svör
 		þegar notandi er sáttur með færslu, því ef eitthvað skildi fara úrskeiðis er hægt að fara tilbaka
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-		working dir. er það sem er virkt. 
+		working dir. er þegar er verið að vinna. staging area er áður en það er commit-að fyrir fullt og allt, og repository er þegar það er búið að commit-a.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+		þegar það er t.d. verið að vinna í verkefni en notandi vill ekki over-write-a aðal verkefnið.
