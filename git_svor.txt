@@ -20,3 +20,7 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 		kerfi sem loggar breytingar á skrám svo hægt er að kalla þær upp aftur
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		auðveldar tveim+ einstaklingum að vinna í sama verkefni þó þeir séu kanski hinumeigin á hnettinum
+
